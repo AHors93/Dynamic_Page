@@ -1,1 +1,1 @@
-Another attempt at a vanilla JS projet, to better my understanding of HTML and JS working together. Before I jump into making React projects, I will try something else, but please have a look and let me know how this could be refactored/slicker :)
+Another attempt at a vanilla JS projet, to better my understanding of HTML and JS working together. Before I jump into making more React projects, I will try something else, but please have a look and let me know how this could be refactored/slicker :)
